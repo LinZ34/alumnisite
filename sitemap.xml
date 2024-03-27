@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://airy.net/alumni/</loc>
+  <priority>1.0</priority>
+  <lastmod>2019-05-14T10:10:09+09:00</lastmod>
+</url>
+<url>
+  <loc>https://airy.net/alumni/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-05-14T10:10:44+09:00</lastmod>
+</url>
+<url>
+  <loc>https://airy.net/alumni/demo.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2019-04-19T17:39:15+09:00</lastmod>
+</url>
+
+</urlset>
